@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="ltapysg",
-    version="0.1.6",
-    author="Muhd Hakim",
-    author_email="codestia@gmail.com",
+    name="jsltapysg",
+    version="0.0.1",
+    author="Low Jian Sheng",
+    author_email="lowjiansheng94@gmail.com",
     description="Asynchronous python library to access LTA's Datamall, primarily designed for Home Asssitant.",
     long_description=long_description,
     long_description_content_type="text/markdown",
