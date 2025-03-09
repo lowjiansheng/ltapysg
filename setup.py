@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jsltapysg",
-    version="0.0.1",
+    version="0.0.3",
     author="Low Jian Sheng",
     author_email="lowjiansheng94@gmail.com",
     description="Asynchronous python library to access LTA's Datamall, primarily designed for Home Asssitant.",
